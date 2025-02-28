@@ -1,0 +1,21 @@
+p{
+    color: rgb(140, 42, 165);  
+  }
+  body{
+      background-color: rgb(27, 9, 77);
+      text-align: center;
+      color: white;
+  }
+
+  .titulo{
+    font-size: xx-small; /*fonte do titulo (tamanho)*/
+  }
+  .topo{
+    background-color: rgb(126, 126, 190);
+  }
+  .conteúdo{
+    background-color: rgb(56, 56, 129);
+  }
+  .rodapé{
+    background-color: rgb(18, 18, 97);
+  }
